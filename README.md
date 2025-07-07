@@ -1,6 +1,6 @@
 # 🧩 30-Day Logic Building Challenge
 
-Welcome! This is your **Daily Logic Practice Repo** — designed to sharpen your core programming logic step by step. 💡
+Welcome! This is my **Daily Logic Practice Repo** — designed to sharpen my core programming logic step by step. 💡
 
 ---
 
